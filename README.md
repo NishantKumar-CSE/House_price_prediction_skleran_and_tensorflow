@@ -1,4 +1,4 @@
-### Housing Price Prediction Based on Socioeconomic and Geographical Factors
+#### Housing Price Prediction Based on Socioeconomic and Geographical Factors
 
 ```markdown
 # House Price Prediction Web App
@@ -102,8 +102,8 @@ house_price_prediction/
 - [Scikit-learn](https://scikit-learn.org/) for data preprocessing.
 
 ## Made By
-
-**Nishant Kumar**
+**Author: Nishant Kumar**
+**Program: B.Tech in Computer Science Engineering (Specialization: Cyber Security)**
 
 ## License
 
