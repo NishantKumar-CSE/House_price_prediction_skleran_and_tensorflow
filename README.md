@@ -1,4 +1,5 @@
 #### Housing Price Prediction Based on Socioeconomic and Geographical Factors
+![Application Screenshot](house.jpg) 
 
 ```markdown
 # House Price Prediction Web App
